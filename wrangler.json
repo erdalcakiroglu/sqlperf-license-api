@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sqlperf-license-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e496dd9d-ad1e-4c4f-9de0-e6e3201ae800",
+			"database_name": "sqlperformanceai"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
